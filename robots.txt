@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pmorrisonfl.github.io/al-folio/sitemap.xml
+Sitemap: https://pmorrisonfl.github.io/sitemap.xml
